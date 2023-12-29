@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4bhi-i
 - You can reach me at abhishek21319@gmail.com
-- 👀 I’m interested to know about every new invwntion or discovery everyday
+- 👀 I’m interested to know about every new invention or discovery everyday
 - 🌱 I’m currently learning Java
 - https://instagram.com/im.4bhii_?igshid=MTNiYzNiMzkwZA==  ...
 <!---
