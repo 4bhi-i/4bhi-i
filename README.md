@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - https://instagram.com/im.4bhii_?igshid=MTNiYzNiMzkwZA==  ...
-- My Recent project in python - https://github.com/BalakeerthiNidumolu/chronic-kidney-disease-prediction
 <!---
 4bhi-i/4bhi-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
